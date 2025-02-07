@@ -1,0 +1,12 @@
+{
+  "name": "setup-page",
+  "version": "2.41.2",
+  "private": true,
+  "dependencies": {
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1"
+  },
+  "eslintConfig": {
+    "extends": "react-app"
+  }
+}
